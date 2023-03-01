@@ -1,0 +1,12 @@
+{
+  "bucket": "tabor-vjttrnt",
+  "reduce": {
+      "directory": "reduced"
+  },
+  "resizes": [
+    {
+      "size": 800,
+      "directory": "thumbs/800"
+    }
+  ]
+}
